@@ -9,6 +9,6 @@
 
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/16144725/24513404/2551b9ce-153f-11e7-921a-09d30dd560a0.jpg" width="300"/>
-  <img src="https://cloud.githubusercontent.com/assets/16144725/24513413/2893d86a-153f-11e7-9069-12b9d78addcc.png" width="300"/>
+  <img src="https://cloud.githubusercontent.com/assets/16144725/24513404/2551b9ce-153f-11e7-921a-09d30dd560a0.jpg" width="360"/>
+  <img src="https://cloud.githubusercontent.com/assets/16144725/24513413/2893d86a-153f-11e7-9069-12b9d78addcc.png" width="360"/>
 </p>
